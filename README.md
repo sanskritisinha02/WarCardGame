@@ -5,11 +5,12 @@ War card game is a simple game where user clicks on Deal button where they play 
 
 
 <p align="center">
-  <img width="200" height = "400" alt="Img1" src="https://user-images.githubusercontent.com/90863360/213248820-ab674996-af13-4429-8c7a-de572f3e5809.png">
+  
+  <img width="200" height = "400" alt="Img3" src="https://user-images.githubusercontent.com/90863360/213248869-f933cde6-8328-4998-87f0-ccd3769286f2.png">
   
   <img width="200" height = "400" alt="Img2" src="https://user-images.githubusercontent.com/90863360/213248845-30e7ed4b-f199-4a59-9346-08d962f4e461.png">
   
-  <img width="200" height = "400" alt="Img3" src="https://user-images.githubusercontent.com/90863360/213248869-f933cde6-8328-4998-87f0-ccd3769286f2.png">
+  <img width="200" height = "400" alt="Img1" src="https://user-images.githubusercontent.com/90863360/213248820-ab674996-af13-4429-8c7a-de572f3e5809.png">
 
 </p>
 
